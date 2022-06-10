@@ -320,7 +320,7 @@ function App() {
                         getData();
                       }}
                     >
-                      CONNECT
+                      KYS
                     </StyledButton>
                     {blockchain.errorMsg !== "" ? (
                       <>
